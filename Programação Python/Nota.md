@@ -1,0 +1,3 @@
+Este diretório reúne anotações e exercícios resultantes dos meus estudos em Python, tendo como principal referência o livro _Curso Intensivo de Python: uma Introdução Prática e Baseada em Projetos à Programação_, de Eric Matthes.
+
+As anotações aqui presentes não abrangem todo o conteúdo do livro. Elas foram organizadas de acordo com os tópicos que considerei mais relevantes para meus estudos e interesses.
